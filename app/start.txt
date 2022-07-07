@@ -1,0 +1,2 @@
+d:\my_project_website\venv\scripts\activate
+python manage.py runserver

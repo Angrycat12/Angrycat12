@@ -1,0 +1,4 @@
+black theme:
+#171717 , #444444 , #423F3E , #2B2B2B
+light theme:
+#FBF8F1 , #FFFFFF , #F7ECDE , #E9DAC1
